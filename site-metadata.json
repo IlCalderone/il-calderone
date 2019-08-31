@@ -1,10 +1,10 @@
 {
-  "title": "Stackbit Fresh Theme",
+  "title": "Il Calderone",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
+    "title": "Il Calderone",
+    "tagline": "un blog personale",
     "profile_img": "/images/calderone_1400x1400.png",
     "bg": "dark",
     "has_nav": true,
