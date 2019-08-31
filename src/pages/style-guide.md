@@ -6,7 +6,7 @@ subtitle: >-
   and styles for your content.
 menus:
   main:
-    title: Style Guide
+    title: Podcast
     weight: 3
 template: page
 ---
