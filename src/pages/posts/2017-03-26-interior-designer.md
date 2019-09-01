@@ -8,6 +8,9 @@ thumb_img_path: /images/img_20190815_004431-960x443.jpg
 excerpt: >-
   Non sai mai cosa si nasconde al di sotto di una copertina e tra l'inchiostro
   di quelle pagine.
+menus:
+  main:
+    identifier: book
 template: post
 ---
 <p>
