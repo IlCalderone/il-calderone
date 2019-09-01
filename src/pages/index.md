@@ -15,8 +15,8 @@ sections:
       Vedi il pulsantino sotto? Se vuoi commentare un "articolo", farmi sapere
       la tua opinione su di un podcast che ho pubblicato... ehhh beh, sentiti
       liberissimo di farlo. Pigia violentemente su quel pulsante e scrivimi!
-    section_id: about
-    title: About
+    section_id: altro
+    title: Altro
     type: contentblock
   - actions:
       - label: View Blog
