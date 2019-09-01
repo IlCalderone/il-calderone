@@ -15,7 +15,7 @@ template: post
 
 
 
-Non ho mai scritto recensioni di libri, o per meglio dire, non ho mai messo per iscritto e pubblicato, quello che un libro mi ha potuto trasmettere, durante la lettura, a fine di questa e dopo del tempo dall’ultima pagina chiusa.<br>L’ho deciso di fare, fedele al mio progetto su The Archetype, partendo da un libro che non pensavo potesse toccarmi tanto, seppur le tematiche, l’ambiente, i vari scenari che immaginavo potessero esser raccontati e descritti mi siano, in una qualche maniera, terribilmente familiari.
+Non ho mai scritto recensioni di libri, o per meglio dire, non ho mai messo per iscritto e pubblicato, quello che un libro mi ha potuto trasmettere, durante la lettura, a fine di questa e dopo del tempo dall’ultima pagina chiusa.<br>L’ho deciso di fare, fedele al mio progetto, partendo da un libro che non pensavo potesse toccarmi tanto, seppur le tematiche, l’ambiente, i vari scenari che immaginavo potessero esser raccontati e descritti mi siano, in una qualche maniera, terribilmente familiari.
 
 
 
