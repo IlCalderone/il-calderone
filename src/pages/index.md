@@ -15,7 +15,7 @@ sections:
       Vedi il pulsantino sotto? Se vuoi commentare un "articolo", farmi sapere
       la tua opinione su di un podcast che ho pubblicato... ehhh beh, sentiti
       liberissimo di farlo. Pigia violentemente su quel pulsante e scrivimi!
-    section_id: altro
+    section_id: about
     title: Altro
     type: contentblock
   - actions:
@@ -24,7 +24,7 @@ sections:
     component: PostsBlock
     num_posts_displayed: 4
     section_id: recent-posts
-    title: Recent Posts
+    title: Pubblicazioni recenti
     type: postsblock
 menus:
   main:
