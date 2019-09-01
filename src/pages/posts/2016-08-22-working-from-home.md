@@ -1,7 +1,7 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: '2016-08-22'
-thumb_img_path: images/9.jpg
+title: Quest'anno non Scendo - Casa Surace
+date: 2019-08-31T22:00:00.000Z
+thumb_img_path: /images/img_20190815_004431-960x443.jpg
 content_img_path: images/9.jpg
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
