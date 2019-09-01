@@ -1,5 +1,6 @@
 ---
 title: Contact
+img_path: /images/20190901_084735.jpg
 menus:
   main:
     title: Contact
