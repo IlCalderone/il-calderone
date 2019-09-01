@@ -1,6 +1,6 @@
 ---
 title: Su di me
-subtitle: This is a short page about me and my work.
+subtitle: 'Un riassunto stringato di me, di ciò che faccio e delle mie passioni'
 img_path: images/about.jpg
 menus:
   main:
