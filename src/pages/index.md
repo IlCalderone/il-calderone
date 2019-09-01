@@ -8,7 +8,7 @@ sections:
     section_id: hero
     type: heroblock
   - actions:
-      - label: Contact Me
+      - label: Scrivimi
         url: /contact
     component: ContentBlock
     content: >-
