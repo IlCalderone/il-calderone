@@ -10,7 +10,7 @@ excerpt: >-
   di quelle pagine.
 menus:
   main:
-    identifier: book
+    identifier: ''
 template: post
 ---
 <p>
