@@ -3,8 +3,17 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hei! salve... come tu ci sia capitato qui è un mistero.\
+
+      Ma se ci sei, prenditi un momento per leggere e magari ascoltare quello
+      che ho da dire...
+
+
+      Ovvio, ti chiederai su cosa...facile! Su ciò che mi appassiona e mi
+      condisce il quotidiano.
+
+
+      # E' un contenitore delle mie Esperenzie
     section_id: hero
     type: heroblock
   - actions:
