@@ -1,7 +1,7 @@
 ---
 title: Su di me
 subtitle: 'Un riassunto stringato di me, di ciò che faccio e delle mie passioni'
-img_path: images/about.jpg
+img_path: /images/photo_2019-09-01_10-37-14.jpg
 menus:
   main:
     title: About
