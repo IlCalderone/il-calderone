@@ -6,13 +6,13 @@ subtitle: >-
 date: 2019-08-31T22:00:00.000Z
 thumb_img_path: /images/img_20190815_004431-960x443.jpg
 content_img_path: ''
-excerpt: ''
+excerpt: >-
+  Non sai mai cosa si nasconde al di sotto di una copertina e tra l'inchiostro
+  di quelle pagine.
 menus:
   main:
     identifier: casa-surace
-    title: >-
-      Non sai mai cosa si nasconde al di sotto di una copertina e tra
-      l'inchiostro di quelle pagine.
+    title: ''
     weight: ''
 template: post
 ---
