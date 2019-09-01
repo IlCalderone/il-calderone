@@ -8,4 +8,4 @@ menus:
     weight: 5
 template: contact
 ---
-Per scrivermi compila il modulo che trovi qui sotto
+Per contattarmi compila il modulo che trovi qui sotto
