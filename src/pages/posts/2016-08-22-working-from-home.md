@@ -10,8 +10,8 @@ excerpt: >-
 menus:
   main:
     identifier: ''
-    title: Quest'anno non Scendo - Casa Surace
-    weight: -14
+    title: ''
+    weight: ''
 template: post
 ---
 <!-- wp:paragraph -->
