@@ -1,5 +1,5 @@
 ---
-title: Quest'anno non Scendo - Casa Surace
+title: Quest'anno non Scendo
 subtitle: ''
 date: 2019-08-31T22:00:00.000Z
 thumb_img_path: /images/img_20190815_004431-960x443.jpg
