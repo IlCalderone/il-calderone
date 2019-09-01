@@ -1,11 +1,11 @@
 ---
-title: Contact
+title: Contattami
 img_path: /images/20190901_084735.jpg
 menus:
   main:
-    title: Contact
+    identifier: Contact
+    title: Contattami
     weight: 5
 template: contact
 ---
-
-To get in touch fill the form below.
+Per scrivermi compila il modulo che trovi qui sotto
