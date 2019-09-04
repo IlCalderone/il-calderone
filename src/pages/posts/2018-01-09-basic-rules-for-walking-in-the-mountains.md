@@ -11,6 +11,15 @@ excerpt: >-
   di quelle pagine.
 template: post
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129364431-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129364431-10');
+</script>
 <p>
 
 Non ho mai scritto recensioni di libri, o per meglio dire, non ho mai messo per iscritto e pubblicato, quello che un libro mi ha potuto trasmettere, durante la lettura, a fine di questa e dopo del tempo dall’ultima pagina chiusa.<br>L’ho deciso di fare, fedele al mio progetto, partendo da un libro che non pensavo potesse toccarmi tanto, seppur le tematiche, l’ambiente, i vari scenari che immaginavo potessero esser raccontati e descritti mi siano, in una qualche maniera, terribilmente familiari.
@@ -60,3 +69,4 @@ Quello che mi verrebbe da dire è “che siamo tutti identici a questo mondo” 
 <p><strong>Se mi sento di consigliare questo libro? </strong><br><br></p>
 
 <p>Certo che si! Se volete una lettura leggera, che finirete in non meno di una settimana, dedicando a questa quasi un’oretta o poco meno, che vi diverta, che vi sappia distrarre dal quotidiano ma tenere incollati a quella che è la storia ( ciò che è capitato a me in primis ), e che vi porti a riflettere sul vostro quotidiano, riportandovi, spero, ad apprezzare aspetti dello stesso che oramai vengono dati per scontati, o peggio, son andati dispersi… Questo è il libro che fa per voi.<br></p>
+<p><a href="http://bit.ly/gopodme">Streaming Podcast</a>; <a href="http://bit.ly/IlCalderoneChannel">Canale Telegram</a>; <a href="http://bit.ly/stakbit">Sito Statico</a>; <a href="http://bit.ly/LinkTotali">Link Totali</a>; <a href="https://ilcalderone.altervista.org/">Torna alla Home</a></p>
