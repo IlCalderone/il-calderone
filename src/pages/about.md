@@ -4,7 +4,7 @@ subtitle: 'Un riassunto stringato di me, di ciò che faccio e delle mie passioni
 img_path: /images/photo_2019-09-01_10-37-14.jpg
 menus:
   main:
-    title: About
+    title: Circa
     weight: 4
 template: page
 ---
