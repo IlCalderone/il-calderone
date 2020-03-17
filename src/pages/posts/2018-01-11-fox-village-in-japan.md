@@ -1,15 +1,14 @@
 ---
-title: Fox Village In Japan
+title: Un Virus per incatenarli tutti
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
-date: '2018-01-11'
+  Era il 2020 e nessuno si sarebbe aspettato che la trama del più becero film di
+  serie B prendesse realtà
+date: 2020-03-16T23:00:00.000Z
 thumb_img_path: images/5.jpg
 content_img_path: images/5.jpg
 excerpt: >-
-  Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
-  situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
-  can visit a village where there is a vast population of foxes.
+  Il mondo è silenzioso. Le strade deserte. Solo pochi muovono nello sciamare
+  dello spauracchio mortale.
 template: post
 ---
 
