@@ -2,7 +2,7 @@
 title: Hunger Games P.T.1
 subtitle: ""
 date: 2020-10-20T22:00:00.000Z
-thumb_img_path: ""
+thumb_img_path: /images/hunger_games.png
 content_img_path: ""
 excerpt: ""
 template: post
