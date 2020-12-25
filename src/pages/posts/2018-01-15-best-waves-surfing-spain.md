@@ -1,9 +1,9 @@
 ---
 title: Hunger Games P.T.1
-subtitle: ""
+subtitle: Una sorpresa inaspettata.
 date: 2020-10-20T22:00:00.000Z
 thumb_img_path: /images/hunger_games.png
-content_img_path: ""
+content_img_path: /images/hunger_games.png
 excerpt: ""
 template: post
 ---
