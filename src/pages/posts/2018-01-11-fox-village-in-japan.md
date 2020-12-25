@@ -3,7 +3,7 @@ title: Il Codice Veritas
 subtitle: come rendere scialba un'idea affascinante
 date: 2020-10-06T22:00:00.000Z
 thumb_img_path: /images/il_codice_veritas.jpg
-content_img_path: ""
+content_img_path: /images/il_codice_veritas.jpg
 excerpt: ""
 template: post
 ---
