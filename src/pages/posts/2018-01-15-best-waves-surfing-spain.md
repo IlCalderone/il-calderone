@@ -4,7 +4,7 @@ subtitle: Una sorpresa inaspettata.
 date: 2020-10-20T22:00:00.000Z
 thumb_img_path: /images/hunger_games.png
 content_img_path: /images/hunger_games.png
-excerpt: ""
+excerpt: Una sorpresa inaspettata.
 template: post
 ---
 <!--StartFragment-->
