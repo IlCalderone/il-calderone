@@ -1,23 +1,63 @@
 ---
-title: The Ride In The Woods
-subtitle: A cautionary tale about riding
-date: '2018-01-23'
-thumb_img_path: images/3.jpg
-content_img_path: images/3.jpg
-excerpt: >-
-  The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+title: Soul
+subtitle: Non solo un film d'animazione
+date: 2020-12-24T23:00:00.000Z
+thumb_img_path: /images/soul-logo-maxw-824.jpg
+content_img_path: ""
+excerpt: Un’anima qui non può essere schiacciata,  per quello c’è la vita sulla terra
 template: post
 ---
+Può un film di animazione essere l’equivalente di un cazzotto nello stomaco?\
+portarti a riflettere più di quanto normalmente avresti fatto?\
+porti nella condizione di rivalutare le scelte fatte sino a quel momento?
 
-The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh venenatis cras sed felis eget velit aliquet sagittis id. Pellentesque dignissim enim sit amet venenatis urna cursus. Faucibus turpis in eu mi bibendum neque egestas congue quisque. Hac habitasse platea dictumst vestibulum rhoncus est. Sit amet cursus sit amet. Habitant morbi tristique senectus et netus et. Dolor morbi non arcu risus quis. Dignissim diam quis enim lobortis. Sit amet cursus sit amet dictum. Senectus et netus et malesuada fames ac turpis egestas sed. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Malesuada pellentesque elit eget gravida. Elementum pulvinar etiam non quam lacus.
+Ebbene Soul, il nuovo film della Disney-Pixar su di me ha avuto esattamente questo effetto.\
+Non lo avrei mai creduto possibile.\
+Tanto era l’hype che si era generato dietro a questo titolo che non gli avrei dato due lire, memore delle scottature filmiche che negli ultimi anni hanno costellato il panorama della mia vita.
 
-## The Ride
+Ed invece mi son dovuto ricredere.
 
-Purus sit amet luctus venenatis lectus magna fringilla urna. Lacus laoreet non curabitur gravida arcu ac. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Pretium viverra suspendisse potenti nullam ac tortor vitae. Bibendum est ultricies integer quis auctor elit sed. Suscipit tellus mauris a diam maecenas. Interdum consectetur libero id faucibus nisl tincidunt eget. Velit egestas dui id ornare. Tincidunt eget nullam non nisi est sit amet facilisis. Nibh sed pulvinar proin gravida hendrerit. Vulputate mi sit amet mauris commodo quis imperdiet. Sit amet consectetur adipiscing elit pellentesque habitant. Amet tellus cras adipiscing enim eu turpis egestas. Leo duis ut diam quam nulla porttitor massa. Sit amet risus nullam eget felis. Sed viverra ipsum nunc aliquet. Enim praesent elementum facilisis leo. Amet mauris commodo quis imperdiet massa tincidunt.
+Alcune frasi probabilmente rimarranno nel mio immaginario per molto, forse troppo tempo, e questo sicuramente non è un male
 
-## Motorcycle
+Io voglio l’oceano\
+Ma come l’oceano, quello dove stai nuotando è l’oceano…\
+Questo? ma questa è solo acqua…\
+Io voglio l’oceano
 
-Congue eu consequat ac felis donec et. Nulla facilisi cras fermentum odio eu feugiat. Non tellus orci ac auctor. Justo donec enim diam vulputate ut pharetra sit. Mauris vitae ultricies leo integer malesuada nunc vel risus. Nunc eget lorem dolor sed viverra ipsum nunc aliquet. Sit amet nisl suscipit adipiscing bibendum. Vitae suscipit tellus mauris a diam. Erat pellentesque adipiscing commodo elit. Amet consectetur adipiscing elit pellentesque habitant. Est ante in nibh mauris cursus mattis molestie a. Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Etiam sit amet nisl purus in mollis.
+![](https://ilcalderone.altervista.org/wp-content/uploads/2020/12/images-1.jpg)
 
-Risus pretium quam vulputate dignissim. Et pharetra pharetra massa massa ultricies mi quis hendrerit. Pharetra massa massa ultricies mi quis hendrerit dolor. Id eu nisl nunc mi ipsum faucibus vitae aliquet nec. Nunc sed velit dignissim sodales ut eu sem. Vel facilisis volutpat est velit egestas. Mauris pellentesque pulvinar pellentesque habitant morbi. Sit amet purus gravida quis blandit turpis cursus in. Nullam ac tortor vitae purus faucibus. Gravida dictum fusce ut placerat orci. Urna molestie at elementum eu facilisis sed odio. Blandit massa enim nec dui nunc mattis. Pellentesque massa placerat duis ultricies. Accumsan sit amet nulla facilisi morbi tempus iaculis urna. Orci porta non pulvinar neque laoreet. Duis ultricies lacus sed turpis tincidunt. Feugiat in ante metus dictum at tempor commodo ullamcorper. Risus nec feugiat in fermentum posuere urna.
+Non ci rendiamo mai conto di cosa viviamo
+
+Ebbene in questo aneddoto che viene raccontato si può riassumere, credo, la vita di molti di noi.\
+Cerchiamo invano di inseguire qualcosa, di cercare la grandezza alla fine della scalata, della strada, senza renderci conto che quello che stiamo cercando è già attorno a noi, lo stiamo vivendo senza nemmeno accorgercene. Pigri, sordi e ciechi a quello che la vita normalmente ci arriva a dare.\
+Poi capita qualcosa, che può essere un evento straordinario, o un semplice film d’animazione e ti metti a riflettere su quello che ti circonda…ed allora senti come se un peso dallo sterno prenda a scivolare sempre più giù nel profondo, sino ad annichilirsi per sempre.\
+Inizi a respirare, ti senti maledettamente più leggero, ed inizi a renderti conto che quello che volevi con ardore, in parte lo hai anche iniziato già ad ottenere.
+
+Ed è quando si arriva a questa consapevolezza che s’arriva a poter apprezzare il piccolo del nostro quotidiano che non fa altro che concorrere a creare quella montagna che alla fine del percorso avremo sempre voluto trovare e sulla quale avremo sempre voluto ergerci per godere del panorama che riempirà di meraviglia, divenendo il nostro fine ultimo.
+
+![](https://ilcalderone.altervista.org/wp-content/uploads/2020/12/images.jpg)
+
+Un passo in più su di un cammino nebbioso
+
+E quindi torno a chiedermi, può un film di animazione riuscire a sradicare una persona dal tedio della sua vita, come un calcio al culo?\
+Può sciogliere quelle catene di ghiaccio che ancorano al terreno impedendo di muoversi?
+
+Dopo UP, dopo Inside Out, dopo Dumbo (Potrei continuare all’infinito a citare capolavori d’animazione odierdi e di altri tempi) Soul ha esattamente questo struggente effetto.\
+Una doccia fredda in un periodo maledetto.\
+Un lasso di tempo lento e terribile che ha avuto la capacità di scardinare le certezze di molti gettandosi nel più profondo panico obliante.
+
+![](https://ilcalderone.altervista.org/wp-content/uploads/2020/12/soul-pixar-disney-plus-natale-cinema-tv-programmi-960x571.jpg)
+
+La Scintilla
+
+Un consiglio spassionato: prendetevi il tempo di godere di questo capolavoro.\
+Ponetevi ad esso con l’animo più libero di cui siete capaci e lasciatevi scardinare dai suoi concetti, che risiedono latenti in ognuno di noi, ma che non abbiam la forza di far venire fuori.
+
+Buona Visione!
+
+*Dove potermi ascoltare*:\
+[Podcast](https://gopod.me/il_calderone) (scegliete la piattaforma che preferite)\
+[Player sul sito](https://ilcalderone.altervista.org/podcast)\
+\
+*Dove poter interagire:*\
+[Twitter](https://twitter.com/IlCalderone_IT), [Instagram](https://www.instagram.com/il_calderone/?hl=it)
