@@ -1,27 +1,65 @@
 ---
-title: Su di me
-subtitle: Un riassunto stringato di me, di ciò che faccio e delle mie passioni
-img_path: /images/photo_2019-09-01_10-37-14.jpg
+title: Letture
+subtitle: Un lista delle letture fatte con relativi link ad articoli e podcast
+img_path: /images/20200928_081738.jpg
 menus:
   main:
-    title: Circa
+    title: Letture
     weight: 4
 template: page
 ---
-**Benito Russo** all'anagrafe italiana, **Benny** nella vita reale. Nomignolo soprannome, affibbiatomi da mia madre per smorzare la pretenziosità ed il peso di questo nome. Che vallo a spiegare alla gente che era così che si chiamava tuo nonno, e che alla sua epoca, dar certi nomi, fruttava soldi e sgravi fiscali... ma si sa, la gente legge e sente quello che vuole. 
+<!--StartFragment-->
 
-Nato in un piccolo paesello dell'entroterra Campano, nella culla Cilentana, i miei studi son stati... beh, i soliti dei normali esseri umani: asilo, scuole elementare, medie, liceo scientifico, università ( fermata prima di una mia morte cerebrale prematura ), secondo diploma in un istituto tecnico, papabile ripresa degli studi universitari (via telematica eh, che qui siamo nell'oltre terzo millennio ).\
-\
-Tra un peregrinar tra libri e maledir le poche opportunità, son arrivato persino a lavorare in una società di monitoraggio e telecontrollo, di eventi ambientali e casistiche strutturali (sapete no, frane, dighe, ponti, smottamenti di fiumi, chi più ne ha più ne metta).
+<!-- wp:paragraph -->
 
-Ma le mie passioni son sempre ricadute in cose semplici: leggere, videogiocare, giocare a D&D, prima cartaceo e poi in versione online sul PBC. Sino a che non ho deciso di lanciarmi, alla veneranda età di 31 anni (oramai considerato vecchio per tutto) in un'avventura internauta, fatta di parecchi strafalcioni ed intoppi, per fortuna passati in sordina persino a me stesso, attraverso podcast, video, e la realizzazione di un blog quanto più facile da tenere e men stressate da realizzare.\
-\
-Ed eccomi qui a romper le balle come fanno più o meno tutti, con l'assurda pretesa di cercare pure di arrivare a farcela.\
-\
-Ah... la gioventù!
+**IN LETTURA**: Cercasi Dio: anche senza esperienza - Alessandro Paolucci
 
-> Alla fine non comprendi la difficoltà di una cosa, se prima non provi a farla <cite> Benito Russo</cite>
+**SOSPESO**: Homo Deus - Yuval Noah Harari
 
+<!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
 
-_Grazie per aver letto!_
+Elenco delle letture affrontate:
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**2019**\
+× [Quest'anno non scendo - Casa Surace](https://ilcalderone.altervista.org/libro-casa-surace/) \[ cartaceo ]\
+× Non è un lavoro per vecchi - Riccardo Pozzoli \[ebook]\
+× Genotype - Daniele Armaioli \[ebook]\
+× Io sono Leggenda - Richard Matheson \[ebook]\
+× 12 Giorni - Peppe Salerno \[ebook]\
+× Game Saves: Ricordi di un videogiocatore fuori target - Angelo Franco \[ebook]\
+× A passo d'uomo: giro del mondo a piedi - Mattia Miraglio \[ebook]\
+x Vietato leggere all'inferno - Roberto Gerilli \[ebook]\
+x Per una cipolla di Tropea - Alessandro De Filippi \[ebook]\
+x Il movimento è fermo - Lo Stato Sociale \[ cartaceo ]\
+x [I figli del tempo - Adrian Tchaikovsky](https://open.spotify.com/episode/23joAZQjA2fo0iRZpmZeb9) \[ebook]\
+----------------------------------------------------------------------\
+**2020**\
+x Sesso, Droga e Lavorare - Lo Stato Sociale \[ cartaceo ]\
+x Jurassik Park - Michael Crichton \[ cartaceo ]\
+x Crypto - Dan Brown \[ cartaceo ]\
+x La Verità nel Ghiaccio - Dan Brown \[ cartaceo ]\
+x Il Simbolo Perduto - Dan Brown \[ cartaceo ]\
+x Origin - Dan Brown \[ cartaceo ]\
+x Il Silmarillion - Tolkien \[ebook]\
+x Lo Hobbit - Tolkien \[ebook]\
+x Laurie - King \[ebook]\
+x Che Dio perdona tutti - Pif \[ cartaceo ]\
+x Le intermittenze della morte - Saramago \[ cartaceo ]\
+x Il Cavaliere dei Sette Regni - Martin \[ cartaceo ]\
+x Il grande contagio - Maine  \[ cartaceo ]\
+x [Il Codice Veritas - Andrea Marzovilla](https://ilcalderone.altervista.org/letture-il-codice-veritas/) \[ cartaceo ]\
+x La Svastica sul Sole - Philip K. Dick \[ cartaceo ]\
+x Il Caso Fitzgerald - Jhon Grisham \[ cartaceo ]\
+x [Hunger Games Libro 1 - Suzanne Collins](https://www.spreaker.com/user/ilcalderone/s2-ep03-hunger-games-avrei-dovuto-legger) \[ cartaceo ]\
+x Red: La prima luce - Linda Nagata \[ cartaceo ]\
+x Gli omicidi dello Zodiaco - Sōji Shimada \[ cartaceo ]
+
+<!-- /wp:paragraph -->
+
+<!--EndFragment-->
