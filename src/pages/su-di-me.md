@@ -1,7 +1,7 @@
 ---
 title: Letture
 subtitle: Un lista delle letture fatte con relativi link ad articoli e podcast
-img_path: /images/20200928_081738.jpg
+img_path: ""
 menus:
   main:
     title: Letture
