@@ -5,32 +5,29 @@ sections:
     content: >-
       Hei! salve... come tu ci sia capitato qui è un mistero.\
 
-      Ma se ci sei, prenditi un momento per leggere e magari ascoltare quello
-      che ho da dire...
+      Ma se ci sei, prenditi un momento per leggere e magari ascoltare quello che ho da dire...
 
 
-      Ovvio, ti chiederai su cosa...facile! Su ciò che mi appassiona e mi
-      condisce il quotidiano.
+      Ovvio, ti chiederai su cosa...facile! Su ciò che mi appassiona e mi condisce il quotidiano.
 
 
       # E' un contenitore delle mie Esperenzie
 
 
-
-
       Intanto puoi iniziare ad ascoltarmi qui
 
-       <iframe src="https://tunein.com/embed/player/p1244967/" style="width:100%; height:100px;" scrolling="no" frameborder="no"></iframe>
+
+      <iframe src="https://open.spotify.com/embed-podcast/show/5mGMZYk6asPYQYyD1LSsgb" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     section_id: hero
     type: heroblock
   - actions:
       - label: Scrivimi
         url: /contact
     component: ContentBlock
-    content: >-
-      Vedi il pulsantino sotto? Se vuoi commentare un "articolo", farmi sapere
-      la tua opinione su di un podcast che ho pubblicato... ehhh beh, sentiti
-      liberissimo di farlo. Pigia violentemente su quel pulsante e scrivimi!
+    content: Vedi il pulsantino sotto? Se vuoi commentare un "articolo", farmi
+      sapere la tua opinione su di un podcast che ho pubblicato... ehhh beh,
+      sentiti liberissimo di farlo. Pigia violentemente su quel pulsante e
+      scrivimi!
     section_id: about
     title: Altro
     type: contentblock
@@ -49,4 +46,3 @@ menus:
     weight: 1
 template: home
 ---
-
