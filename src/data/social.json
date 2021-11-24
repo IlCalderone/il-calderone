@@ -23,6 +23,11 @@
       "title": "Itunes",
       "icon": "fa-itunes-note",
       "url": "https://podcasts.apple.com/it/podcast/il-calderone/id1475693791"
+    },
+    {
+      "url": "https://beacons.ai/ilcalderone",
+      "title": "Link",
+      "icon": "fas fa-link"
     }
   ]
 }
